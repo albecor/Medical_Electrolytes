@@ -1,0 +1,10 @@
+com.spring.medical.configuration
+com.spring.medical.controller
+com.spring.medical.converter
+com.spring.medical.dao
+com.spring.medical.json
+com.spring.medical.model
+com.spring.medical.security
+com.spring.medical.service
+com.spring.medical.utilities
+test
